@@ -1,0 +1,12 @@
+.header {
+    height: 200px;
+    background-color: #101819;
+    overflow: hidden;
+    position: relative;
+}
+
+.header img {
+    height: 300px;
+    position: absolute;
+    top: -50px;
+}
